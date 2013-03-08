@@ -440,6 +440,13 @@ public final class UrlImageViewHelper {
         return null;
     }
 
+    public static void removeFromInMemoryCache(final String url) {
+        ZombieDrawable drawable = (ZombieDrawable) mLiveCache.remove(url);
+        if (drawable != null) {
+            drawable.headshot();
+        }
+    }
+
     /**
      * Download and shrink an Image located at a specified URL, and display it
      * in the provided {@link ImageView}.
