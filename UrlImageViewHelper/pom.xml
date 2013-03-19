@@ -19,7 +19,7 @@
 
 	<scm>
         <connection>scm:git:git://github.com/koush/UrlImageViewHelper.git</connection>
-        <developerConnection>scm:git:git@github.com:koush/UrlImageViewHelper.git</developerConnection>
+        <developerConnection>scm:git:git@github.com:kmagiera/UrlImageViewHelper.git</developerConnection>
         <url>https://github.com/koush/UrlImageViewHelper.git</url>
     </scm>
 
