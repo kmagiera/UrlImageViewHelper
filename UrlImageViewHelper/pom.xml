@@ -4,7 +4,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.koushikdutta.urlimageviewhelper</groupId>
     <artifactId>urlimageviewhelper</artifactId>
-    <version>1.0</version>
+    <version>1.0.1</version>
     <name>UrlImageViewHelper</name>
     <description>UrlImageViewHelper will fill an Android ImageView with an image that is found at a URL</description>
     <url>https://github.com/koush/UrlImageViewHelper</url>
